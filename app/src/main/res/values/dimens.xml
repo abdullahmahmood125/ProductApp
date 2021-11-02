@@ -1,0 +1,166 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="_10">10dp</dimen>
+    <dimen name="_20">20dp</dimen>
+    <dimen name="_24">24dp</dimen>
+    <dimen name="_40">40dp</dimen>
+    <dimen name="_50">50dp</dimen>
+    <dimen name="_55">55dp</dimen>
+    <dimen name="_60">60dp</dimen>
+    <dimen name="_90">90dp</dimen>
+    <dimen name="_100">100dp</dimen>
+    <dimen name="_110">110dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="_18">18dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_tiny">3dip</dimen>
+    <dimen name="margin_small">5dip</dimen>
+    <dimen name="margin_small_2">8dip</dimen>
+    <dimen name="margin_1">10dip</dimen>
+    <dimen name="margin_1_5">15dip</dimen>
+    <dimen name="margin_2">20dip</dimen>
+    <dimen name="margin_2_5">25dip</dimen>
+    <dimen name="margin_3">30dip</dimen>
+    <dimen name="margin_4">40dip</dimen>
+    <dimen name="margin_4_5">45dip</dimen>
+    <dimen name="margin_5">50dip</dimen>
+    <dimen name="margin_6">60dip</dimen>
+    <dimen name="margin_7">70dip</dimen>
+    <dimen name="margin_8">80dip</dimen>
+    <dimen name="margin_9">90dip</dimen>
+    <dimen name="margin_10">100dip</dimen>
+    <dimen name="margin_11">110dip</dimen>
+    <dimen name="margin_12">120dip</dimen>
+    <dimen name="margin_13">130dip</dimen>
+    <dimen name="margin_14">140dip</dimen>
+    <dimen name="margin_15">150dip</dimen>
+    <dimen name="margin_17">170dip</dimen>
+    <dimen name="margin_18">180dip</dimen>
+    <dimen name="margin_19">190dip</dimen>
+    <dimen name="margin_20">200dip</dimen>
+    <dimen name="margin_21">210dip</dimen>
+    <dimen name="margin_22">220dip</dimen>
+    <dimen name="margin_23">230dip</dimen>
+    <dimen name="margin_24">240dip</dimen>
+    <dimen name="margin_25">250dip</dimen>
+    <dimen name="margin_26">260dip</dimen>
+    <dimen name="margin_27">270dip</dimen>
+    <dimen name="margin_28">280dip</dimen>
+    <dimen name="margin_29">290dip</dimen>
+    <dimen name="margin_30">300dip</dimen>
+    <dimen name="margin_31">310dip</dimen>
+    <dimen name="margin_32">320dip</dimen>
+    <dimen name="margin_33">330dip</dimen>
+    <dimen name="margin_34">340dip</dimen>
+    <dimen name="margin_36">360dip</dimen>
+    <dimen name="margin_38">380dip</dimen>
+    <dimen name="textsize_title_large1">64sp</dimen>
+    <dimen name="textsize_title_large2">48sp</dimen>
+    <dimen name="textsize_title_large3">32sp</dimen>
+    <dimen name="textsize_title_large4">26sp</dimen>
+    <dimen name="textsize_title_1">28sp</dimen>
+    <dimen name="textsize_title_2">22sp</dimen>
+    <dimen name="textsize_title_3">20sp</dimen>
+    <dimen name="textsize_title_4">18sp</dimen>
+    <dimen name="textsize_title_5">17sp</dimen>
+    <dimen name="textsize_label_1">16sp</dimen>
+    <dimen name="textsize_label_2">15sp</dimen>
+    <dimen name="textsize_label_3">14sp</dimen>
+    <dimen name="textsize_label_4">13sp</dimen>
+    <dimen name="textsize_label_5">12sp</dimen>
+    <dimen name="textsize_label_6">11sp</dimen>
+    <dimen name="textsize_label_7">10sp</dimen>
+    <dimen name="textsize_label_8">9sp</dimen>
+    <dimen name="textsize_label_24">24sp</dimen>
+
+
+
+
+
+
+    <dimen name="card_padding_regular">16dp</dimen>
+    <dimen name="card_padding_list">8dp</dimen> <!-- card_padding_regular minus list_padding -->
+    <dimen name="list_padding">8dp</dimen>
+    <dimen name="image_button_padding">12dp</dimen>
+    <dimen name="key_action_width">48dp</dimen>  <!-- icon width (24dp) + 2 * image button padding -->
+    <dimen name="fineprint_size">11sp</dimen>
+    <dimen name="audio_player_width">224dp</dimen>
+    <dimen name="avatar_item_distance">16dp</dimen>
+
+    <dimen name="media_preview_size">80dp</dimen>
+    <dimen name="media_size">56dp</dimen> <!-- ideally not larger than avatar_on_details_screen -->
+    <dimen name="browser_media_size">96dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <dimen name="publish_avatar_top_margin">8dp</dimen>
+    <dimen name="publish_avatar_size">96dp</dimen>
+    <dimen name="avatar_on_status_message">32dp</dimen>
+    <dimen name="avatar">48dp</dimen>
+    <dimen name="avatar_on_details_screen_size">56dp</dimen>
+    <dimen name="avatar_on_conversation_overview">56dp</dimen>
+
+    <dimen name="input_label_vertical_spacing">4dp</dimen>
+    <dimen name="input_label_horizontal_spacing">4dp</dimen>
+
+    <!-- scanner -->
+    <dimen name="scan_laser_width">4dp</dimen>
+    <dimen name="scan_dot_size">8dp</dimen>
+
+    <dimen name="swipe_escape_velocity">1200dp</dimen> <!-- android default is 120dp -->
+
+    <dimen name="background_image_opacity">0.12</dimen>
+
+    <dimen name="sd_label_max_width">256dp</dimen>
+
+    <!--    for recyclerview-->
+    <dimen name="activity_padding_horizontal">16dp</dimen>
+    <dimen name="padd_10">10dp</dimen>
+    <dimen name="ic_delete">30dp</dimen>
+    <dimen name="thumbnail">90dp</dimen>
+
+    <!--    for new dashboard-->
+    <dimen name="new_dashboard_1">1dp</dimen>
+    <dimen name="new_dashboard_2">2dp</dimen>
+    <dimen name="new_dashboard_8">8dp</dimen>
+    <dimen name="new_dashboard_10">10dp</dimen>
+    <dimen name="new_dashboard_18">18dp</dimen>
+    <dimen name="new_dashboard_20">20dp</dimen>
+    <dimen name="new_dashboard_30">30dp</dimen>
+    <dimen name="new_dashboard_40">40dp</dimen>
+    <dimen name="new_dashboard_50">50dp</dimen>
+    <dimen name="new_dashboard_60">60dp</dimen>
+    <dimen name="new_dashboard_65">65dp</dimen>
+    <dimen name="new_dashboard_70">70dp</dimen>
+    <dimen name="new_dashboard_75">75dp</dimen>
+    <dimen name="new_dashboard_80">80dp</dimen>
+    <dimen name="new_dashboard_90">90dp</dimen>
+    <dimen name="new_dashboard_100">100dp</dimen>
+    <dimen name="new_dashboard_110">110dp</dimen>
+    <dimen name="new_dashboard_120">120dp</dimen>
+    <dimen name="new_dashboard_130">130dp</dimen>
+    <dimen name="new_dashboard_140">140dp</dimen>
+    <dimen name="new_dashboard_150">150dp</dimen>
+    <dimen name="new_dashboard_180">180dp</dimen>
+    <dimen name="new_dashboard_5">5dp</dimen>
+    <dimen name="new_dashboard_200">200dp</dimen>
+    <dimen name="new_dashboard_220">220dp</dimen>
+    <dimen name="new_dashboard_250">250dp</dimen>
+    <dimen name="new_dashboard_300">300dp</dimen>
+    <dimen name="new_dashboard_350">350dp</dimen>
+    <dimen name="new_dashboard_400">400dp</dimen>
+    <dimen name="new_dashboard_450">450dp</dimen>
+
+    <dimen name="new_dashboard_text_10">10sp</dimen>
+    <dimen name="new_dashboard_text_12">12sp</dimen>
+    <dimen name="new_dashboard_text_14">14sp</dimen>
+    <dimen name="new_dashboard_text_16">16sp</dimen>
+    <dimen name="new_dashboard_text_18">18sp</dimen>
+    <dimen name="new_dashboard_text_24">24sp</dimen>
+
+</resources>

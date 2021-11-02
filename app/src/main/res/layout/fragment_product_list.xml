@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ProductListFragment">
+
+    <GridView
+        android:layout_marginStart="@dimen/_20"
+        android:layout_marginEnd="@dimen/_20"
+        android:layout_marginTop="@dimen/_20"
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:verticalSpacing="@dimen/new_dashboard_30"
+        android:horizontalSpacing="@dimen/_10"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+
+        android:stretchMode="columnWidth"
+        android:padding="1dp"
+        android:numColumns="2"/>
+
+</FrameLayout>
